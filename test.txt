@@ -1,2 +1,11 @@
 git team 연습
 test03
+
+
+
+git commit -1 
+git commit -1 
+git commit -1 
+git commit -1 
+git commit -13 
+git commit -2 
